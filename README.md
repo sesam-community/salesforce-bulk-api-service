@@ -1,4 +1,7 @@
 # salesforce-bulk-api-service
+
+[![Build Status](https://travis-ci.org/sesam-community/salesforce-bulk-api-service.svg?branch=master)](https://travis-ci.org/sesam-community/salesforce-bulk-api-service)
+
 Simple service for quering Salesforce data via Bulk API with since support
 
 ## Sesam system set up 
